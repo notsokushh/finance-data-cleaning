@@ -229,42 +229,7 @@ The project generates **6 comprehensive visualizations**:
 - **Unique Customers:** 847
 - **Unique Products:** 95
 - **Product Categories:** 8
-
-## 📁 Project Structure
-
-```
-finance-data-cleaning/
-│
-├── DS_FINAL_CODE.ipynb          # Main Jupyter notebook (Google Colab compatible)
-├── README.md                      # Project documentation (you are here!)
-├── requirements.txt               # Python dependencies
-├── LICENSE                        # MIT License
-│
-├── data/
-│   ├── raw/                       # Place your input files here
-│   │   └── sample_transactions.xlsx
-│   └── cleaned/                   # Cleaned output files
-│       ├── online_retail_cleaned.csv
-│       └── online_retail_cleaned.xlsx
-│
-├── assets/                        # Visualization outputs
-│   ├── missing_values_comparison.png
-│   ├── price_distribution_analysis.png
-│   ├── temporal_analysis.png
-│   ├── customer_product_analysis.png
-│   ├── correlation_heatmap.png
-│   └── data_quality_dashboard.png
-│
-├── src/                           # Source code (optional for advanced users)
-│   ├── clean_data.py              # Data cleaning pipeline
-│   ├── visualize.py               # Visualization generation
-│   └── utils.py                   # Helper functions
-│
-└── docs/                          # Additional documentation
-    ├── METHODOLOGY.md             # Detailed cleaning methodology
-    ├── CHALLENGES.md              # Challenges & solutions
-    └── REFERENCES.md              # Citations and resources
-```
+- 
 
 ## 🛠️ Technologies Used
 
@@ -318,8 +283,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Kushagra Agrawal**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: (https://github.com/notsokushh)
+- LinkedIn: (https://linkedin.com/in/k4kushhagra)
 
 ## 🙏 Acknowledgments
 
@@ -333,7 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or run into issues:
 
-1. Check the [Issues](https://github.com/YOUR_USERNAME/finance-data-cleaning/issues) page
+1. Check the [Issues](https://github.com/notsokushh/finance-data-cleaning/issues) page
 2. Open a new issue with the `question` or `bug` label
 3. Provide details: Python version, error message, steps to reproduce
 
