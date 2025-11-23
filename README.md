@@ -8,6 +8,16 @@ A comprehensive **Finance Domain mini-project** focused on cleaning and standard
 
 ![Data Quality Dashboard](assets/dashboard_preview.png)
 
+## 📚 Project Files (Recommended Reading Order)
+
+1. **[README.md](README.md)** - Start here! Project overview and documentation
+2. **[requirements.txt](requirements.txt)** - Dependencies needed to run the project
+3. **[DS_FINAL_CODE.ipynb](DS_FINAL_CODE.ipynb)** - Main Jupyter notebook with all analysis
+4. **[Dataset Of Retail Shop.xlsx](Dataset%20Of%20Retail%20Shop.xlsx)** - Original dataset
+5. **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to this project
+6. **[LICENSE](LICENSE)** - MIT License details
+
+
 ## 🎯 Project Overview
 
 **Domain:** Finance - Retail Transactions  
