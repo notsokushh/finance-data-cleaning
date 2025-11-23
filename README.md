@@ -49,7 +49,7 @@ A comprehensive **Finance Domain mini-project** focused on cleaning and standard
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/finance-data-cleaning.git
+git clone https://github.com/notsokushh/finance-data-cleaning.git
 cd finance-data-cleaning
 
 # Create virtual environment
